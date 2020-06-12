@@ -1,0 +1,2 @@
+[15084:24268:0612/151323.962:ERROR:device_event_log_impl.cc(208)] [15:13:23.962] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+[15084:24268:0612/151557.653:ERROR:network_service_instance_impl.cc(262)] Network service crashed, restarting service.
